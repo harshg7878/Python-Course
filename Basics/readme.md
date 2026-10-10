@@ -1,4 +1,4 @@
-In this file we learned the followings-
+# In this file we learned the followings-
     1- how python works.
         script,bytecode,pvm...
     2- import python file inside another.

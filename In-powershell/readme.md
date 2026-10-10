@@ -1,6 +1,6 @@
-In this file we will do the following-
-    1.run python using powershell.
-    --powershell is used to run a piece of code inside the python idle.
+# In this file we will do the following-
+# 1.run python using powershell.
+- powershell is used to run a piece of code inside the python idle.
 
         open in integrated terminal and then type python.
         -- we can import the file inside using command -
